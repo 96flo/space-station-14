@@ -17,6 +17,7 @@
   groups:
   - GroupTankHarness
   - HoPHead
+  - HoPBeret
   - HoPNeck
   - HoPJumpsuit
   - HoPBackpack

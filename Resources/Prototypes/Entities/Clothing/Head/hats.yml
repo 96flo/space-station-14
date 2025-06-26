@@ -1148,3 +1148,14 @@
     sprite: Clothing/Head/Hats/beret_medic.rsi
   - type: Clothing
     sprite: Clothing/Head/Hats/beret_medic.rsi
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretHOP
+  name: head of personnel's beret
+  description: A dark blue beret with a ruby inserted in the center, for true connoisseurs of bureaucracy!
+  components:
+  - type: Sprite
+    sprite: Clothing/Head/Hats/beret_hop.rsi
+  - type: Clothing
+    sprite: Clothing/Head/Hats/beret_hop.rsi
