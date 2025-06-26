@@ -71,6 +71,7 @@
       - id: ClothingNeckCloakHop
       - id: ClothingHeadHatHopcap
       - id: ClothingOuterWinterHoP
+      - id: ClothingHeadHatBeretHOP
       - id: ClothingOuterCoatHOP # Corvax-Resprite
       - id: ADTClothingNeckHoPAltCloak # ADT-Resprite
       - id: ClothingUnderwearSocksHeadofPersonnel # DS14-Socks
