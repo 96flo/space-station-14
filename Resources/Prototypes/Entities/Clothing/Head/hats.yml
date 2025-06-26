@@ -1159,3 +1159,6 @@
     sprite: Clothing/Head/Hats/beret_hop.rsi
   - type: Clothing
     sprite: Clothing/Head/Hats/beret_hop.rsi
+  - type: Tag
+    tags:
+    - HamsterWearable
