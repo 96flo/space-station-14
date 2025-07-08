@@ -8,3 +8,9 @@
     sprite: _DeadSpace/Clothing/Head/Hats/beret_hop.rsi
   - type: Clothing
     sprite: _DeadSpace/Clothing/Head/Hats/beret_hop.rsi
+  - type: Tag
+    tags:
+    - HamsterWearable
+    - ClothMade
+    - Recyclable
+    - WhitelistChameleon

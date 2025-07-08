@@ -325,6 +325,11 @@
   result: ClothingUniformJumpsuitHoP
 
 - type: latheRecipe
+  parent: BaseCommandHatRecipe
+  id: ClothingHeadHatBeretHop
+  result: ClothingHeadHatBeretHop
+
+- type: latheRecipe
   parent: BaseCommandJumpsuitRecipe
   id: ClothingUniformJumpskirtHoP
   result: ClothingUniformJumpskirtHoP
