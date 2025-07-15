@@ -324,6 +324,8 @@
   id: ClothingUniformJumpsuitHoP
   result: ClothingUniformJumpsuitHoP
 
+# DS14-start
+
 - type: latheRecipe
   parent: BaseCommandHatRecipe
   id: ClothingHeadHatBeretHop
@@ -333,6 +335,8 @@
   parent: BaseCommandJumpsuitRecipe
   id: ClothingUniformJumpskirtHoP
   result: ClothingUniformJumpskirtHoP
+
+# DS14-end
 
 ## HoS
 
